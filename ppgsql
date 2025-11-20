@@ -1,0 +1,10 @@
++---------------------------+
+|        SaaS Layer        |
+| (Aplikasi siap pakai)    |
++---------------------------+
+|        PaaS Layer        |
+| (Platform untuk deploy)  |
++---------------------------+
+|        IaaS Layer        |
+| (Server, VM, Storage)    |
++---------------------------+
