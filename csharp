@@ -1,0 +1,14 @@
+uts-cloud-computing-2025/
+│
+├── README.md
+├── soal-1-2.md
+│
+├── workspace-async/
+│   ├── README.md
+│   ├── pyproject.toml
+│   ├── app_async.py
+│
+└── workspace-mp/
+    ├── README.md
+    ├── pyproject.toml
+    ├── app_mp.py
